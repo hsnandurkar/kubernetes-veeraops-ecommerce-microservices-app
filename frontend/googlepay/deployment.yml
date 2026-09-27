@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: googlepay
-        image: 623234912973.dkr.ecr.us-east-1.amazonaws.com/shopping-site-googlepay:47abb00c159d83c948bf029e9271dde8a483c2a7
+        image: 623234912973.dkr.ecr.us-east-1.amazonaws.com/shopping-site-googlepay:f6ee5784899cae30306cc67e9623fe38b542935e
         ports:
         - containerPort: 80
 ---
